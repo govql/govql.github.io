@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'GovQL',
+  tagline: 'Making government data available in GraphQL',
+  favicon: 'img/govql-logo.svg',
 
   // Set the production url of your site here
   url: 'https://www.govql.us',
@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'govql', // Usually your GitHub org/user name.
-  projectName: 'govql', // Usually your repo name.
+  projectName: 'govql.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
