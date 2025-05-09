@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgovql_github_io=self.webpackChunkgovql_github_io||[]).push([[4601],{5855:(e,i,s)=>{s.r(i),s.d(i,{default:()=>c});s(6540);var h=s(1410),a=s(4848);function c(){return(0,a.jsxs)(h.A,{children:[(0,a.jsx)("h1",{children:"My React page"}),(0,a.jsx)("p",{children:"This is a React page"})]})}}}]);
